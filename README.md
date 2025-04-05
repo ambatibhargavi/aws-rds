@@ -1,4 +1,4 @@
-# Node.js Web App with AWS RDS and Docker
+<img width="1440" alt="Screenshot 2025-04-03 at 11 24 23" src="https://github.com/user-attachments/assets/574cac95-cbbe-4648-9f43-054d7067d766" /><img width="1438" alt="Screenshot 2025-04-03 at 11 23 35" src="https://github.com/user-attachments/assets/64938dd1-e4ce-40ad-b0de-b855862e3eba" /><img width="1028" alt="Screenshot 2025-04-03 at 11 22 59" src="https://github.com/user-attachments/assets/0c6ea064-1303-425d-9f78-0c80e2e4de87" /># Node.js Web App with AWS RDS and Docker
 
 This project sets up a Node.js web application running in a Docker container on an AWS EC2 instance. The application connects to an AWS RDS MySQL database for data storage.
 
@@ -82,14 +82,16 @@ Replace `<RDS_ENDPOINT>`, `<USERNAME>`, and `<PASSWORD>` with your RDS credentia
 - **Docker Compose** can be used for managing multiple containers.
 - Regularly **update your dependencies** to ensure security and stability.
 
-<img width="1389" alt="Screenshot 2025-04-03 at 11 36 16" src="https://github.com/user-attachments/assets/4e584d59-e2fc-4ec0-aa3e-78a3f63f4ce8" />
-<img width="1409" alt="Screenshot 2025-04-03 at 11 27 36" src="https://github.com/user-attachments/assets/f42ad36d-722d-450d-8f57-4d52e7d6b82a" />
-<img width="727" alt="Screenshot 2025-04-03 at 11 24 39" src="https://github.com/user-attachments/assets/511ee08e-f385-44d5-bd5f-7db2313f3db5" />
-<img width="1440" alt="Screenshot 2025-04-03 at 11 24 23" src="https://github.com/user-attachments/assets/e8c87079-4261-486a-afab-1f0889bea9f0" />
-<img width="1438" alt="Screenshot 2025-04-03 at 11 23 35" src="https://github.com/user-attachments/assets/b73bc41e-7fe8-41e4-a969-722ddd4505f7" />
-<img width="1028" alt="Screenshot 2025-04-03 at 11 22 59" src="https://github.com/user-attachments/assets/41820318-6ff7-4c2f-95a2-56c2bb3b1b2a" />
-<img width="1439" alt="Screenshot 2025-04-03 at 11 22 35" src="https://github.com/user-attachments/assets/36fdf513-0c0f-4e50-9b20-5d0095020976" />
-<img width="779" alt="Screenshot 2025-04-03 at 11 22 18" src="https://github.com/user-attachments/assets/5cda7535-0fb5-40d5-bf3b-c72216a95b8b" />
-<img width="1428" alt="Screenshot 2025-04-03 at 11 22 02" src="https://github.com/user-attachments/assets/5639d987-c192-4096-a7b4-8c37944d32ae" />
-<img width="642" alt="Screenshot 2025-04-03 at 11 21 33" src="https://github.com/user-attachments/assets/b3785e51-6ac9-4de5-9c20-f96a8c94afe3" />
-<img width="884" alt="Screenshot 2025-04-03 at 11 21 16" src="https://github.com/user-attachments/assets/cedb52e5-0e6b-460b-91ee-00e3cdc8531d" />
+<img width="1438" alt="Screenshot 2025-04-03 at 11 23 35" src="https://github.com/user-attachments/assets/9e3df65a-6e95-4930-b694-58692f53118f" />
+<img width="1028" alt="Screenshot 2025-04-03 at 11 22 59" src="https://github.com/user-attachments/assets/1b4c82fb-4926-4a5f-bb79-f52dc16adb82" />
+<img width="1439" alt="Screenshot 2025-04-03 at 11 22 35" src="https://github.com/user-attachments/assets/5fd9ff10-2750-47dc-bad0-c1ec80dee68b" />
+<img width="779" alt="Screenshot 2025-04-03 at 11 22 18" src="https://github.com/user-attachments/assets/6a8f3fb2-599d-4e22-b3c5-84f806f7fe07" />
+<img width="1428" alt="Screenshot 2025-04-03 at 11 22 02" src="https://github.com/user-attachments/assets/44434b9c-4157-4078-81ee-92cf7496f23e" />
+<img width="642" alt="Screenshot 2025-04-03 at 11 21 33" src="https://github.com/user-attachments/assets/4048cbff-2d56-4e79-a99c-4097b75a77de" />
+<img width="884" alt="Screenshot 2025-04-03 at 11 21 16" src="https://github.com/user-attachments/assets/aeb92116-1015-4ae8-8a19-4bfb7a4c0b8c" />
+<img width="727" alt="Screenshot 2025-04-03 at 11 24 39" src="https://github.com/user-attachments/assets/d12ee768-0aee-449a-a04d-d2b48521cff6" />
+<img width="1440" alt="Screenshot 2025-04-03 at 11 24 23" src="https://github.com/user-attachments/assets/20294bd2-5500-4ae7-9251-3d30bf494e9f" />
+<img width="1389" alt="Screenshot 2025-04-03 at 11 36 16" src="https://github.com/user-attachments/assets/0fd6f858-5aba-4a10-a1db-43e3c9ac4041" />
+<img width="1409" alt="Screenshot 2025-04-03 at 11 27 36" src="https://github.com/user-attachments/assets/6d62dad1-bb84-442a-91f9-66072fea0c92" />
+
+
