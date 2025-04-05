@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2025-04-03 at 11 24 23" src="https://github.com/user-attachments/assets/574cac95-cbbe-4648-9f43-054d7067d766" /><img width="1438" alt="Screenshot 2025-04-03 at 11 23 35" src="https://github.com/user-attachments/assets/64938dd1-e4ce-40ad-b0de-b855862e3eba" /><img width="1028" alt="Screenshot 2025-04-03 at 11 22 59" src="https://github.com/user-attachments/assets/0c6ea064-1303-425d-9f78-0c80e2e4de87" /># Node.js Web App with AWS RDS and Docker
+<img width="1440" alt="Screenshot 2025-04-03 at 11 24 23" src="https://github.com/user-attachments/assets/574cac95-cbbe-4648-9f43-054d7067d766" /># Node.js Web App with AWS RDS and Docker
 
 This project sets up a Node.js web application running in a Docker container on an AWS EC2 instance. The application connects to an AWS RDS MySQL database for data storage.
 
